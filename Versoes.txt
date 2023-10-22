@@ -1,16 +1,41 @@
 Versões que eu tenho :
 
-7.00 = Versão de lançamento oficial, 4 classes ( pode criar até 8 personagens sem restrição, se quiser pode ter 8 Squire ), 13 Mapas na Campanha ( 12 + 1 bônus ) com 14 Challenges ( 13 + 1 Mapa PVP ) e Lv 70 máximo indo até Insano ( Fácil, Médio, Difícil e Insano )
+7.00 = Versão de lançamento oficial, 
+-4 classes ( pode criar até 8 personagens sem restrição, se quiser pode ter 8 Squire ), 
+-13 Mapas na Campanha ( 12 + 1 bônus ) 
+-14 Challenges ( 13 + 1 Mapa PVP )
+-Lv 70 máximo indo até Insano ( Fácil, Médio, Difícil e Insano )
 
-7.50 = Última versão da Trendy, com 12 classes ( pode criar até 32 personagens sem restrição, se quiser pode ter 8 Squire ) , 21 Mapas na Campanha ( 14 + 7 bônus ) com 46 Challenges ( 41 + 5 Mapa PVP ) e Lv 100 Máximo indo até Pesadelo ( Fácil, Médio, Difíci, Insano e Pesadelo ) Sem a DLC The The Lost Quests
+7.50 = Última versão da Trendy,
+-12 classes ( pode criar até 32 personagens sem restrição, se quiser pode ter 8 Squire )
+-21 Mapas na Campanha ( 14 + 7 bônus ) 
+-46 Challenges ( 41 + 5 Mapa PVP )
+-Lv 100 Máximo indo até Pesadelo ( Fácil, Médio, Difíci, Insano e Pesadelo ) 
+-Sem a DLC The The Lost Quests
 
-Ps3 / Xbox = Versão de console, 4 classes ( pode criar até 8 personagens sem restrição, se quiser pode ter 8 Squires ), 18 mapas na Campanha ( 12 + 1 Bônus + 4 Quest for the Lost Eternia Shars + 1 Especial ) com 21 Challenges ( 17 + 4 Mapas PVP ) e Lv 90 máximo indo até Insano + ( Fácil, Médio, Difícil, Insano e Insano + )
+Ps3 / Xbox = Versão de console, 
+-4 classes ( pode criar até 8 personagens sem restrição, se quiser pode ter 8 Squires )
+-18 mapas na Campanha ( 12 + 1 Bônus + 4 Quest for the Lost Eternia Shars + 1 Especial )
+-21 Challenges ( 17 + 4 Mapas PVP )
+-Lv 90 máximo indo até Insano + ( Fácil, Médio, Difícil, Insano e Insano + )
 
-Versão Steam = Versão de PC, 13 classes ( pode criar até 40 personagens sem restrição, se quiser pode ter 40 Squires ), 22 mapas na Campanha ( 13 + 9 Bônus ) + 6 de Quest for the Lost Eternia Shard + The Lost Quests + Challenges e Lv 100 máximo indo até Nightmare ( Fácil, Médio, Difícil, Insano e Pesadelo )
+Versão Steam = Versão de PC, 
+-13 classes ( pode criar até 40 personagens sem restrição, se quiser pode ter 40 Squires ), 
+-22 mapas na Campanha ( 13 + 9 Bônus ) + 6 de Quest for the Lost Eternia Shard + The Lost Quests 
+-Challenges
+-Lv 100 máximo indo até Nightmare ( Fácil, Médio, Difícil, Insano e Pesadelo )
 
-Versão Redux = Mesma coisa de PC só que com 12 classes e adição do Modo Ascension depois do Nightmare, modo Rutheless e Pura Estratégia agora é sem construir nada ( na versão original é sem batalha )
+Versão Redux = Mesma coisa de PC 
+-12 classes
+-Adição do Modo Ascension depois do Nightmare
+-Modo Rutheless é Pura Estratégia agora é sem construir nada ( na versão original é sem batalha )
 
-!!! Falta eu ter a 7.13, 7.21, 7.30, 7.38 e 7.42 pra assim upar até Lv 74, 78, 83, 90 e 93 !!!
+!!! Falta eu ter a 
+-7.13, 78
+-7.21, 78
+-7.30, 83
+-7.38, 90
+-7.42, 93
 
 Level Máximo e Classes :
 19/10/2011 7.00 = Lv 70 com Squire, Apprentice, Huntress e Monk ( OK )
