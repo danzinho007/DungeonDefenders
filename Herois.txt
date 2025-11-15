@@ -1,14 +1,2 @@
 Heróis :
 
-Apprenticenew
-Squire
-Adept 150px-Countess
-Countess
-Jester
-Barbarian
-Huntressnew
-Monk 150px-Ranger
-Ranger 150px-Initiate
-Initiate 150px-Series EV
-Series EV 150px-Summoner
-Summoner
